@@ -1,0 +1,7 @@
+#coding=gbk
+'''
+Created on 2015Äê4ÔÂ16ÈÕ
+
+@author: Blunce
+'''
+print 'hello world'
